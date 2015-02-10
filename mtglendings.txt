@@ -1,7 +1,6 @@
 
 ola har lånat av mattias
 
-1x - Whisperwood elemental
 1x - Hornets nest
 1x - flame-wreathed Phoenix
 1x - despise
@@ -16,11 +15,13 @@ ola har lånat av mattias
 1x - Mardu charm
 1x - Tasigur the golden fang
 1x - Silumgar, the drifting death
-2x - Opultent Palace
+2x - Opultent Phoenixalace
 1x - Nissan worldwaker
+2x - Hordeling outburst
 
 mattias har lånat av ola
 
+1x - Whisperwood elemental
 2x - Abzan Beastmaster
 2x - Elvish mystic
 3x - Mystic Monastery
